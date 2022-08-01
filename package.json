@@ -1,0 +1,28 @@
+{
+  "name": "coffee-brown-light",
+  "displayName": "Coffee Brown Light",
+  "description": "A simple light color coffee brown theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "SivaprasadNK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sivaprasadnk/CoffeeBrownLightTheme-VSCodeTheme.git"
+
+  },
+
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coffee Brown light",
+        "uiTheme": "vs",
+        "path": "./themes/Coffee Brown light-color-theme.json"
+      }
+    ]
+  }
+}
